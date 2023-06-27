@@ -32,11 +32,12 @@ def not_hesapla(satir):
 
     return ogrenciAdi + ": " + "ortalaması: " + str(ortalama) + " harf notu: " + harf + "\n"
 
-    
+
 def ortalamalari_oku():
     with open("sinav_notlari.txt", "r", encoding="utf-8") as file:
         for satir in file:
             print(not_hesapla(satir))
+
 
 def not_gir():
     ad = input('Öğrenci adı: ')
@@ -46,7 +47,9 @@ def not_gir():
     not3 = input("not3: ")
 
     with open("sinav_notlari.txt", "a", encoding="utf-8") as file:
-        file.write(ad + ' ' + soyad + ":" + not1 + "," + not2 + "," + not3 + "\n")
+        file.write(ad + ' ' + soyad + ":" + not1 +
+                   "," + not2 + "," + not3 + "\n")
+
 
 def notlari_kaydet():
     with open("sinav_notlari.txt", "r", encoding="utf-8") as file:
@@ -60,10 +63,9 @@ def notlari_kaydet():
                 file2.write(j)
 
 
-
-
 while True:
-    islem = input('1- Notları Oku\n2- Not Gir\n3- Notları Kayıt Et\n4- Çıkış\n')
+    islem = input(
+        '1- Notları Oku\n2- Not Gir\n3- Notları Kayıt Et\n4- Çıkış\n')
 
     if islem == "1":
         ortalamalari_oku()
