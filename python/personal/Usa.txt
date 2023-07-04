@@ -1,0 +1,15 @@
+Alabama,USA
+Alaska,USA
+Arizona,USA
+Kaliforniya,USA
+Delaware,USA
+Hawaii,USA
+Kentucky,USA
+Massachusetts,USA
+Minnesota,USA
+Missouri,USA
+New Jersey,USA
+New York,USA
+Oklahoma,USA
+Pensilvanya,USA
+Tennessee,USA

@@ -1,0 +1,33 @@
+Marmara,Turkey
+Akdeniz,Turkey
+Ege,Turkey
+Ic Anadolu,Turkey
+Dogu Anadolu,Turkey
+Karadeniz,Turkey
+Güneydoğu Anadolu,Turkey
+Büyük Londra,UK
+Güneydoğu İngiltere,UK 
+Güney Batı İngiltere,UK 
+Batı Midlands,UK 
+Doğu Midlands,UK 
+Kuzey Batı İngiltere,UK 
+Kuzey Doğu İngiltere,UK 
+Doğu İngiltere,UK 
+YorkShire,UK 
+Humber,UK
+Alabama,USA
+Alaska,USA
+Arizona,USA
+Kaliforniya,USA
+Delaware,USA
+Hawaii,USA
+Kentucky,USA
+Massachusetts,USA
+Minnesota,USA
+Missouri,USA
+New Jersey,USA
+New York,USA
+Oklahoma,USA
+Pensilvanya,USA
+Tennessee,USA
+Wisconsin,USA

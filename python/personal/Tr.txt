@@ -1,0 +1,7 @@
+Marmara,Turkey
+Akdeniz,Turkey
+Ege,Turkey
+Ic Anadolu,Turkey
+Dogu Anadolu,Turkey
+Karadeniz,Turkey
+Güneydoğu Anadolu,Turkey

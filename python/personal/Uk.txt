@@ -1,0 +1,11 @@
+Büyük Londra,UK
+Güneydoğu İngiltere,UK 
+Güney Batı İngiltere,UK 
+Batı Midlands,UK 
+Doğu Midlands,UK 
+Kuzey Batı İngiltere,UK 
+Kuzey Doğu İngiltere,UK 
+Doğu İngiltere,UK 
+YorkShire,UK 
+Humber,UK
+Wisconsin,US
